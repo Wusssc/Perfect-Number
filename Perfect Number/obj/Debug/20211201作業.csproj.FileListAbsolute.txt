@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\20211201作業\bin\Debug\20211201作業.exe.config
+C:\Users\User\source\repos\20211201作業\bin\Debug\20211201作業.exe
+C:\Users\User\source\repos\20211201作業\bin\Debug\20211201作業.pdb
+C:\Users\User\source\repos\20211201作業\obj\Debug\20211201作業.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\20211201作業\obj\Debug\20211201作業.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\20211201作業\obj\Debug\20211201作業.exe
+C:\Users\User\source\repos\20211201作業\obj\Debug\20211201作業.pdb
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\bin\Debug\20211201作業.exe.config
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\bin\Debug\20211201作業.exe
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\bin\Debug\20211201作業.pdb
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\obj\Debug\20211201作業.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\obj\Debug\20211201作業.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\obj\Debug\20211201作業.exe
+C:\Users\User\Desktop\Wu\大一上學期程式\20211201作業\obj\Debug\20211201作業.pdb
